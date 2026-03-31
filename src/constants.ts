@@ -77,7 +77,7 @@ export const EDUCATION: Education[] = [
     id: '1',
     institution: 'NMIMS,MPSTME',
     degree: 'Diploma In C.E',
-    period: '2020 - 2022',
+    period: '2024 - 2028',
     description: 'Concepts, fundamentals, and practical skills developed through coursework and academic projects.'
   },
   {
