@@ -75,16 +75,16 @@ export const PROJECTS: Project[] = [
 export const EDUCATION: Education[] = [
   {
     id: '1',
-    institution: 'Tech Institute of Innovation',
-    degree: 'M.S. in Computer Science',
+    institution: 'NMIMS,MPSTME',
+    degree: 'Diploma In C.E',
     period: '2020 - 2022',
-    description: 'Focused on Human-Computer Interaction and Advanced Graphics.'
+    description: 'Concepts, fundamentals, and practical skills developed through coursework and academic projects.'
   },
   {
     id: '2',
-    institution: 'Global University of Design',
-    degree: 'B.S. in Interactive Media',
-    period: '2016 - 2020',
-    description: 'Specialized in UI/UX and Creative Coding.'
+    institution: 'Don Bosco High School',
+    degree: 'HSC',
+    period: '2016 - 2024',
+    description: 'Core concepts and fundamentals learned through academic coursework in computer engineering..'
   }
 ];
