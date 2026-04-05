@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+## Harshit Chauhan — Portfolio
 
-# Run and deploy your AI Studio app
+A collection of projects I’ve built while exploring AI, systems, and web.
 
-This contains everything you need to run your app locally.
+Mix of local AI assistants, experimental tools, and full-stack apps — focused on building real things, not just concepts.
 
-View your app in AI Studio: https://ai.studio/apps/a9af13f9-b49f-429e-8ed1-9cf675e38fda
+Always building, always improving.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## Setup
 
+```bash
+# clone the repo
+git clone https://github.com/your-username/your-repo.git
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# go into folder
+cd your-repo
+
+# install dependencies
+npm install
+# or
+pip install -r requirements.txt
+
+# run project
+npm run dev
+# or
+python main.py
+```
+
+> Note: Setup may vary slightly depending on the project.
